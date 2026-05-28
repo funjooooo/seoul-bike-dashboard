@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw data (not needed to run the dashboard)
+서울특별시*
+bike_weather_hourly.csv
+seoul_weather.db
+*.db
+*.xlsx
