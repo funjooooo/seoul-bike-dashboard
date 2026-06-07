@@ -72,9 +72,10 @@ seoul-bike-dashboard/
 
 | 데이터 | 출처 |
 |---|---|
-| 서울 공공자전거 대여 이력 | [서울 열린데이터광장](https://data.seoul.go.kr) |
-| 서울 기상 데이터 | 기상청 ASOS |
-| 대여소 위치 정보 | 서울시 공공자전거 운영사 제공 |
+| 서울 공공자전거 대여 이력 | [공공데이터 포털](https://www.data.go.kr/data/15077786/openapi.do) |
+| 서울 공공자전거 시간대별 이용정보 | [공공데이터 포털](https://www.data.go.kr/data/15051872/fileData.do) |
+| 서울 기상 데이터 | [기상 자료 데이터 포털](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36) |
+| 대여소 위치 정보 | [공공데이터 포털](https://www.data.go.kr/data/15051893/fileData.do) |
 
 ## 주요 분석 피처
 
